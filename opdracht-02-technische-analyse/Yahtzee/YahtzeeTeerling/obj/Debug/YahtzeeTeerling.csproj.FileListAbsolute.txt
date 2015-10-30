@@ -1,0 +1,21 @@
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+\\psf\Home\Documents\School\Year 2\Software Engineering UX\Les 3\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.RollAll.resources
