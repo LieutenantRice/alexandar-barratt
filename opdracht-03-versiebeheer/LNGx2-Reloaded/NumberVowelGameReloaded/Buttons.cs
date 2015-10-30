@@ -29,32 +29,32 @@ namespace NumberVowelGameReloaded
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (_PointsAndTimerController._model.start== true)
-            {
-                if (_PointsAndTimerController._model.counter > 0)
-                {
-                    _buttonController._model.yesOrNo = true;
-                    _buttonController.checkAnswer(_numLetterModel.Nummerletter, _numLetterModel.BovenOfOnder);
-                    _NumLetterController.VeranderLabel();
-                    Console.WriteLine("---RUN COMPLETE---");
-                }
-            }
+            //if (_PointsAndTimerController._model.start== true)
+            //{
+            //    if (_PointsAndTimerController._model.counter > 0)
+            //    {
+            //        _buttonController._model.yesOrNo = true;
+            //        _buttonController.checkAnswer(_numLetterModel.Nummerletter, _numLetterModel.BovenOfOnder);
+            //        _NumLetterController.VeranderLabel();
+            //        Console.WriteLine("---RUN COMPLETE---");
+            //    }
+            //}
         
             
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (_PointsAndTimerController._model.start == true)
-            {
-                if (_PointsAndTimerController._model.counter > 0)
-                {
-                    _buttonController._model.yesOrNo = false;
-                    _buttonController.checkAnswer(_numLetterModel.Nummerletter, _numLetterModel.BovenOfOnder);
-                    _NumLetterController.VeranderLabel();
-                    Console.WriteLine("---RUN COMPLETE---");
-                }
-            }
+            //if (_PointsAndTimerController._model.start == true)
+            //{
+            //    if (_PointsAndTimerController._model.counter > 0)
+            //    {
+            //        _buttonController._model.yesOrNo = false;
+            //        _buttonController.checkAnswer(_numLetterModel.Nummerletter, _numLetterModel.BovenOfOnder);
+            //        _NumLetterController.VeranderLabel();
+            //        Console.WriteLine("---RUN COMPLETE---");
+            //    }
+            //}
         }
 
         private void button3_Click(object sender, EventArgs e)
